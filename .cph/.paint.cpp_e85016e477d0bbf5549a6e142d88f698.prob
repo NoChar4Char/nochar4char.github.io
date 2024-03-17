@@ -1,0 +1,1 @@
+{"name":"Local: paint","url":"/Users/charlie/nochar4char.github.io/paint.cpp","tests":[{"id":1710046527675,"input":"3\n30 0 0 2 5 10\n21 9 10 4 1 2\n9 6 6 50 4 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/charlie/nochar4char.github.io/paint.cpp","group":"local","local":true}

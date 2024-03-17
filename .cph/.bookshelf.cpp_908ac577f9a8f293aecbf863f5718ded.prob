@@ -1,0 +1,1 @@
+{"name":"Local: bookshelf","url":"/Users/charlie/nochar4char.github.io/bookshelf.cpp","tests":[{"id":1710043831488,"input":"3\n3 1 5 3\n2 1 3\n5 2 20 15\n3 3 9 1 21\n1 3 1 1\n5","output":"120\n6540\n72"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/charlie/nochar4char.github.io/bookshelf.cpp","group":"local","local":true}
